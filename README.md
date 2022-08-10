@@ -1,6 +1,6 @@
 # AI-voice-based-assistant-using-python
 Mini - Alexa : A virtual AI assistant 
-Libraries Used : 
+Libraries Used :  
 speech_recognition - https://pypi.org/project/SpeechRecognition/ 
 pywhatkit - https://pypi.org/project/pywhatkit/ 
 pyttsx3 - https://pypi.org/project/pyttsx3/ 
